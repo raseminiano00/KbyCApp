@@ -1,0 +1,53 @@
+C:\Users\Administrator\Documents\PERSONAL\Catering\Catering_Menu\Catering_Menu\obj\x86\Debug\Catering_Menu.csproj.ResolveComReference.cache
+C:\Users\Administrator\Documents\PERSONAL\Catering\Catering_Menu\Catering_Menu\obj\x86\Debug\Catering_Menu.diagAddRecipe.resources
+C:\Users\Administrator\Documents\PERSONAL\Catering\Catering_Menu\Catering_Menu\obj\x86\Debug\Catering_Menu.diagArrangeSupplier.resources
+C:\Users\Administrator\Documents\PERSONAL\Catering\Catering_Menu\Catering_Menu\obj\x86\Debug\Catering_Menu.diagIngredient.resources
+C:\Users\Administrator\Documents\PERSONAL\Catering\Catering_Menu\Catering_Menu\obj\x86\Debug\Catering_Menu.Form1.resources
+C:\Users\Administrator\Documents\PERSONAL\Catering\Catering_Menu\Catering_Menu\obj\x86\Debug\Catering_Menu.diagPass.resources
+C:\Users\Administrator\Documents\PERSONAL\Catering\Catering_Menu\Catering_Menu\obj\x86\Debug\Catering_Menu.diagRecipeMeas.resources
+C:\Users\Administrator\Documents\PERSONAL\Catering\Catering_Menu\Catering_Menu\obj\x86\Debug\Catering_Menu.frmCatering.resources
+C:\Users\Administrator\Documents\PERSONAL\Catering\Catering_Menu\Catering_Menu\obj\x86\Debug\Catering_Menu.frmChef.resources
+C:\Users\Administrator\Documents\PERSONAL\Catering\Catering_Menu\Catering_Menu\obj\x86\Debug\Catering_Menu.frmIngredient.resources
+C:\Users\Administrator\Documents\PERSONAL\Catering\Catering_Menu\Catering_Menu\obj\x86\Debug\Catering_Menu.frmIngredientReport.resources
+C:\Users\Administrator\Documents\PERSONAL\Catering\Catering_Menu\Catering_Menu\obj\x86\Debug\Catering_Menu.diagReport.resources
+C:\Users\Administrator\Documents\PERSONAL\Catering\Catering_Menu\Catering_Menu\obj\x86\Debug\Catering_Menu.frmMenu.resources
+C:\Users\Administrator\Documents\PERSONAL\Catering\Catering_Menu\Catering_Menu\obj\x86\Debug\Catering_Menu.frmPlatedMultiplier.resources
+C:\Users\Administrator\Documents\PERSONAL\Catering\Catering_Menu\Catering_Menu\obj\x86\Debug\Catering_Menu.frmRecipes.resources
+C:\Users\Administrator\Documents\PERSONAL\Catering\Catering_Menu\Catering_Menu\obj\x86\Debug\Catering_Menu.frmReport.resources
+C:\Users\Administrator\Documents\PERSONAL\Catering\Catering_Menu\Catering_Menu\obj\x86\Debug\Catering_Menu.frmSelectEventReport.resources
+C:\Users\Administrator\Documents\PERSONAL\Catering\Catering_Menu\Catering_Menu\obj\x86\Debug\Catering_Menu.frmSupplier.resources
+C:\Users\Administrator\Documents\PERSONAL\Catering\Catering_Menu\Catering_Menu\obj\x86\Debug\Catering_Menu.frmSysSettings.resources
+C:\Users\Administrator\Documents\PERSONAL\Catering\Catering_Menu\Catering_Menu\obj\x86\Debug\Catering_Menu.Properties.Resources.resources
+C:\Users\Administrator\Documents\PERSONAL\Catering\Catering_Menu\Catering_Menu\obj\x86\Debug\Catering_Menu.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\PERSONAL\Catering\Catering_Menu\Catering_Menu\obj\x86\Debug\Catering_Menu.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\PERSONAL\Catering\Catering_Menu\Catering_Menu\bin\Debug\K by C Application.exe.config
+C:\Users\Administrator\Documents\PERSONAL\Catering\Catering_Menu\Catering_Menu\bin\Debug\K by C Application.exe.manifest
+C:\Users\Administrator\Documents\PERSONAL\Catering\Catering_Menu\Catering_Menu\bin\Debug\K by C Application.application
+C:\Users\Administrator\Documents\PERSONAL\Catering\Catering_Menu\Catering_Menu\bin\Debug\K by C Application.exe
+C:\Users\Administrator\Documents\PERSONAL\Catering\Catering_Menu\Catering_Menu\bin\Debug\K by C Application.pdb
+C:\Users\Administrator\Documents\PERSONAL\Catering\Catering_Menu\Catering_Menu\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Administrator\Documents\PERSONAL\Catering\Catering_Menu\Catering_Menu\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Administrator\Documents\PERSONAL\Catering\Catering_Menu\Catering_Menu\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Administrator\Documents\PERSONAL\Catering\Catering_Menu\Catering_Menu\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Administrator\Documents\PERSONAL\Catering\Catering_Menu\Catering_Menu\bin\Debug\MySqlBackup.dll
+C:\Users\Administrator\Documents\PERSONAL\Catering\Catering_Menu\Catering_Menu\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Administrator\Documents\PERSONAL\Catering\Catering_Menu\Catering_Menu\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Administrator\Documents\PERSONAL\Catering\Catering_Menu\Catering_Menu\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Administrator\Documents\PERSONAL\Catering\Catering_Menu\Catering_Menu\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Administrator\Documents\PERSONAL\Catering\Catering_Menu\Catering_Menu\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Administrator\Documents\PERSONAL\Catering\Catering_Menu\Catering_Menu\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Administrator\Documents\PERSONAL\Catering\Catering_Menu\Catering_Menu\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Administrator\Documents\PERSONAL\Catering\Catering_Menu\Catering_Menu\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Administrator\Documents\PERSONAL\Catering\Catering_Menu\Catering_Menu\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Administrator\Documents\PERSONAL\Catering\Catering_Menu\Catering_Menu\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Administrator\Documents\PERSONAL\Catering\Catering_Menu\Catering_Menu\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Administrator\Documents\PERSONAL\Catering\Catering_Menu\Catering_Menu\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Administrator\Documents\PERSONAL\Catering\Catering_Menu\Catering_Menu\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Administrator\Documents\PERSONAL\Catering\Catering_Menu\Catering_Menu\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Administrator\Documents\PERSONAL\Catering\Catering_Menu\Catering_Menu\bin\Debug\stdole.dll
+C:\Users\Administrator\Documents\PERSONAL\Catering\Catering_Menu\Catering_Menu\obj\x86\Debug\Catering_Menu.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\PERSONAL\Catering\Catering_Menu\Catering_Menu\obj\x86\Debug\K by C Application.exe.manifest
+C:\Users\Administrator\Documents\PERSONAL\Catering\Catering_Menu\Catering_Menu\obj\x86\Debug\K by C Application.application
+C:\Users\Administrator\Documents\PERSONAL\Catering\Catering_Menu\Catering_Menu\obj\x86\Debug\Catering_Menu.csproj.CopyComplete
+C:\Users\Administrator\Documents\PERSONAL\Catering\Catering_Menu\Catering_Menu\obj\x86\Debug\K by C Application.exe
+C:\Users\Administrator\Documents\PERSONAL\Catering\Catering_Menu\Catering_Menu\obj\x86\Debug\K by C Application.pdb

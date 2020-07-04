@@ -1,0 +1,5 @@
+﻿delimiter $$
+create procedure CreateDatabase(
+_database varchar(255))
+create database _database; $$
+delimiter ;

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ReferencePath>C:\Program Files (x86)\SAP BusinessObjects\Crystal Reports for .NET Framework 4.0\Common\SAP BusinessObjects Enterprise XI 4.0\win32_x86\dotnet\;C:\Program Files\SAP BusinessObjects\Crystal Reports for .NET Framework 4.0\Common\SAP BusinessObjects Enterprise XI 4.0\win32_x86\dotnet\</ReferencePath>
+    <PublishUrlHistory>C:\Users\K by Cunanan\Desktop\Installer\|D:\Desktop\K by C Installer%28BOSS GEBOY%29\|C:\Users\KbyC Sales\Desktop\K by C Installer%28BOSS GEBOY%29\|C:\Users\KbyC Sales\Desktop\K by Cunanan - Database Backup %28LEGIT%29\K by C Installer\|C:\Users\KbyC Sales\Desktop\Last phase dev\Installer%28Orig%29\</PublishUrlHistory>
+    <InstallUrlHistory />
+    <SupportUrlHistory />
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory>D:\Desktop\Roi Files\K by Cunanan - Database Backup %28LEGIT%29\Catering Menu 2018 %28 raw file %29\Catering_Menu\Catering_Menu\bin\Debug|D:\Desktop\Roi Files\OLD WORKS\OLD WORKS\K by C Installer\crystal reports for .net framework 4.0|C:\Users\KbyC Sales\Desktop\K by Cunanan - Database Backup %28LEGIT%29\Catering_Menu\Catering_Menu\bin\Debug|C:\Program Files\Microsoft SDKs\Windows\v7.0A\Bootstrapper\Packages\Crystal Reports for .NET Framework 4.0</BootstrapperUrlHistory>
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>
